@@ -1,0 +1,16 @@
+C:\Users\thebe\MyApp\bin\Debug\net5.0\MyApp.exe
+C:\Users\thebe\MyApp\bin\Debug\net5.0\MyApp.deps.json
+C:\Users\thebe\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.json
+C:\Users\thebe\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.dev.json
+C:\Users\thebe\MyApp\bin\Debug\net5.0\MyApp.dll
+C:\Users\thebe\MyApp\bin\Debug\net5.0\ref\MyApp.dll
+C:\Users\thebe\MyApp\bin\Debug\net5.0\MyApp.pdb
+C:\Users\thebe\MyApp\obj\Debug\net5.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\thebe\MyApp\obj\Debug\net5.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebe\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\thebe\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfo.cs
+C:\Users\thebe\MyApp\obj\Debug\net5.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\thebe\MyApp\obj\Debug\net5.0\MyApp.dll
+C:\Users\thebe\MyApp\obj\Debug\net5.0\ref\MyApp.dll
+C:\Users\thebe\MyApp\obj\Debug\net5.0\MyApp.pdb
+C:\Users\thebe\MyApp\obj\Debug\net5.0\MyApp.genruntimeconfig.cache
